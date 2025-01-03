@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const Contact = () => {
   return (
     <section className='bg-secondary text-text-color px-1/10 py-10 z-10 flex justify-between' id='contact'>

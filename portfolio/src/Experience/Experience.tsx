@@ -1,4 +1,3 @@
-import React from 'react'
 import experience from '../data/history.json'
 import { Job } from './Job'
 
