@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Personal Portfolio",
+        "imageSrc": "/src/assets/projects/portfolio.png",
+        "description": "This current page is my personal portfolio website. It is built using React and Node.js, and hosted on AWS. I plan to update my portfolio as I learn more technologies and build more projects. The source code for this website is available on GitHub, where changes I make are automatically deployed using AWS CodeDeploy.",
+        "skills": ["React", "TypeScript","Node.js", "TailwindCSS","GitHub", "AWS"],
+        "demo": "",
+        "source": "https://github.com/joshtopher/portfolio"
+    },
+    {
+        "title": "Project 2",
+        "imageSrc": "/assets/projects/placeholder.png",
+        "description": "This project is still a work in progress, or is currently in the process of being added.",
+        "skills": [],
+        "demo": "",
+        "source": ""
+    },
+    {
+        "title": "Project 3",
+        "imageSrc": "/assets/projects/placeholder.png",
+        "description": "This project is still a work in progress, or is currently in the process of being added.",
+        "skills": [],
+        "demo": "",
+        "source": ""
+    }
+]

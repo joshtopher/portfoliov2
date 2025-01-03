@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section {
+  @apply bg-background-color text-text-color px-1/10 py-10 z-10;
+}
+
+.section_title {
+  @apply text-2xl font-semibold;
+}
+
+.bg_blur {
+  @apply bg-blur-color z-0 w-1/2vw h-1/2vw absolute blur-3xl rounded-full;
+}
+
+.project_url {
+  @apply bg-secondary rounded-3xl px-2 font-semibold outline outline-1 outline-primary;
+}
+
+.contact_url{
+  @apply flex items-center text-xl gap-2;
+}
