@@ -9,7 +9,7 @@
             "Automated mapping of objects with cyclic relationships", 
             "Practiced agile methodologies to plan and cooperate with a large team"
         ],
-        "imageSrc": "/src/assets/experience/trs.png"
+        "imageSrc": "/assets/experience/trs.png"
     },
     {
         "role": "Teaching Assistant",
@@ -20,7 +20,7 @@
             "Held office hours to teach web development/security concepts", 
             "Used docker containers to run and test student code"
         ],
-        "imageSrc": "/src/assets/experience/ub.png"
+        "imageSrc": "/assets/experience/ub.png"
     },
     {
         "role": "Software Engineer Intern",
@@ -32,6 +32,6 @@
             "Increased run-time of DNS lookup script by a factor of 10",
             "Developed and deployed a full-stack web application for internal use"
         ],
-        "imageSrc": "/src/assets/experience/cyber.png"
+        "imageSrc": "/assets/experience/cyber.png"
     }
 ]
