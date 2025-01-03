@@ -26,6 +26,9 @@ export default {
       },
       fontSize: {
         'project-card': '17px'
+      },
+      screens: {
+        'xm': '837px'
       }
     },
   },
