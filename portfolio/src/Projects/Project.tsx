@@ -25,7 +25,7 @@ export const Project: React.FC<ProjectProps> = ({ project }) => {
       };
 
     return (
-        <li className={`z-20 rounded-xl bg-dark-color w-72 max-h-96 relative mt-10 transition-all duration-300 ease-in-out flex flex-col items-center ${inFocus && 'w-96 max-h-7/8 gap-4'}`}
+        <li className={`z-20 rounded-xl bg-dark-color w-72 h-96 relative mt-10 transition-all duration-300 ease-in-out flex flex-col items-center ${inFocus && 'w-96 hover:h-7/8 gap-4'}`}
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}>
             <h3 className='py-2 text-xl'>{title}</h3>
