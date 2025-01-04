@@ -2,25 +2,25 @@
     {
         "title": "Personal Portfolio",
         "imageSrc": "/assets/projects/portfolio.png",
-        "description": "This current page is my personal portfolio website. It is built using React and Node.js, and hosted on AWS. I plan to update my portfolio as I learn more technologies and build more projects. The source code for this website is available on GitHub, where changes I make are automatically deployed using AWS Amplify.",
+        "description": "(Current Page) A reactive personal portfolio website meant to showcase my experiences, projects, and skills as a recent graduate Software Developer.",
         "skills": ["React", "TypeScript","Node.js", "TailwindCSS","GitHub", "AWS"],
-        "demo": "",
+        "expand": "",
         "source": "https://github.com/joshtopher/portfoliov2"
     },
     {
-        "title": "Project 2",
-        "imageSrc": "/assets/projects/placeholder.png",
-        "description": "This project is still a work in progress, or is currently in the process of being added.",
-        "skills": [],
-        "demo": "",
-        "source": ""
+        "title": "Excalibur Auction House",
+        "imageSrc": "/assets/projects/auctions_login.png",
+        "description": "A live updating Auctions Page. This project was made in collaboration with five other students for the final project of our Web Development class at University at Buffalo.",
+        "skills": ["Python", "Flask", "DigitalOcean", "bcrypt", "Docker", "MongoDB", "nginx"],
+        "expand": "",
+        "source": "https://github.com/enochand/CSE312Project"
     },
     {
-        "title": "Project 3",
-        "imageSrc": "/assets/projects/placeholder.png",
-        "description": "This project is still a work in progress, or is currently in the process of being added.",
-        "skills": [],
-        "demo": "",
-        "source": ""
+        "title": "PiM",
+        "imageSrc": "/assets/projects/discord_bot.png",
+        "description": "A discord bot that analyses sentiment of server messages. This project was made to apply the skills I learned in my Text Mining for AI class at Vrije Universiteit Amsterdam. ",
+        "skills": ["Python", "nltk", "sklearn", "discord", "VADER"],
+        "expand": "",
+        "source": "https://github.com/joshtopher/PiM"
     }
 ]

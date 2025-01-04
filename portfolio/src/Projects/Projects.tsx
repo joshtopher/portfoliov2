@@ -4,10 +4,9 @@ import { Project } from './Project'
 export const Projects = () => {
   return (
     <section className='section' id='projects'>
-        <h2 className='section_title capitalize'>PROJECTS</h2>
+        <h2 className='section_title'>PROJECTS</h2>
         <div>
-          <ul className='flex flex-col xm:flex-row flex-wrap items-center xm:items-start justify-center xm:space-x-20'>
-            {
+          <ul className='w-full h-120 flex justify-center flex-wrap gap-20 p-0 m-0'>            {
               projects.map((project, id) => {
                 return <Project key={id} project={project}/>
               })
